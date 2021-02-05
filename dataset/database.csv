@@ -1,0 +1,3 @@
+From,To,Time,TrainName,Distance,Fare ,TrainNumber,Location 
+Delhi,Mumbai,Morning,Delhi express,100,1298,12345,Bhopal
+Delhi,Mumbai,Evening,Rajdhani,100,1379,23456,Dadar

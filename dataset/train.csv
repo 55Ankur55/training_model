@@ -1,0 +1,29 @@
+text,intent
+ i want to take a  from delhi at 838 am and arrive in mumbai at 1110 in the morning,TrainAvailable
+ trains available from delhi to mumbai on thursday morning,TrainAvailable
+find me trains from mumbai to delhi,TrainAvailable
+all trains from delhi to mumbai,TrainAvailable
+trains from delhi to mumbai,TrainAvailable
+all trains from delhi to mumbai leaving after 6 pm and before 7 pm,TrainAvailable
+cheapest train fare from delhi to mumbai,TrainFare
+ i'd like to have some information on a ticket from delhi to mumbai ,TrainFare
+train fare for trains from delhi to mumbai on rajdhani express,TrainFare
+cost of tickets from mumbai to delhi,TrainFare
+distance from delhi to mumbai via train,GetDistance
+distance from Delhi station to the city,GetDistance
+how far is downtown from the railway station in delhi,GetDistance
+how long does it take to get from delhi city to mumbai,GetDistance
+distance from delhi station to city,GetDistance
+how far is mumbai from delhi,GetDistance
+how long does it take to get from delhi station to stadium,GetDistance
+Book a ticket from delhi to mumbai,TrainFare
+Tickets available from delhi to mumbai,TrainFare
+all seats availbale from delhi to mumbai,TrainFare
+list of trains available from mumbai to delhi,TrainAvailable
+location of delhi express,TrainRoute
+location of train from mumbai to delhi,TrainRoute
+status of delhi express,TrainRoute
+route of train ,TrainRoute
+show me the stoppage for delhi express,TrainRoute
+path of delhi express,TrainRoute
+Stations that comes on the route of delhi express,TrainRoute
